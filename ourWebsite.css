@@ -1,0 +1,237 @@
+body{
+    background-color: black;
+}
+#rd{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 47%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+
+#rd2{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: x-large;
+}
+#rd2:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+#rd3{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: x-large;
+}
+#rd3:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+#rd4{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 70%;
+    left: 47%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd4:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+#rd5{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd5:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+#rd6{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd6:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+#rd7{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd7:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+
+
+#rd8{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 60%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd8:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+#rd9{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 34%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd9:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+#rd10{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 34%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd10:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+#rd11{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 34%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd11:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+
+#rd12{
+    background-color: cyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 70%;
+    left: 34%;
+    text-align: center;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    font-size: xx-large;
+}
+#rd12:hover{
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
